@@ -1,0 +1,11 @@
+{
+    "name": "JSON class generator",
+    "description": "RAPAPI生成IOS和android用的类文件",
+    "version": "0.1",
+    "background": {
+        "scripts": [
+            "class_gen.min.js"
+        ]
+    },
+    "manifest_version": 1
+}
